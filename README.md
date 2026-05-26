@@ -14,7 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=deolallwynsamueljb-tech&label=👁️+Profile+Views&color=00BFA5&style=for-the-badge&labelColor=050f1a" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/deolallwynsamueljb-tech?label=🤝+Followers&style=for-the-badge&color=00BFA5&labelColor=050f1a" />
+<img src="https://img.shields.io/github/followers/deolallwynsamueljb-tech?label=Followers&style=for-the-badge&color=00BFA5&labelColor=050f1a" />
 &nbsp;
 <a href="https://architectdeol.vercel.app"><img src="https://img.shields.io/badge/🌐+Portfolio-Live%20Now-00BFA5?style=for-the-badge&labelColor=050f1a" /></a>
 &nbsp;
@@ -90,7 +90,27 @@ const deol = {
 
 ## 🏆 Trophy Showcase
 
-<img src="https://github-profile-trophy.vercel.app/?username=deolallwynsamueljb-tech&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
+<img src="https://img.shields.io/badge/🥇_APL_Chennai-Champion_2026-4285F4?style=for-the-badge&labelColor=050f1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/🎤_GDG_Chennai-Community_Member-00BFA5?style=for-the-badge&labelColor=050f1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/☁️_AWS_Academy-Cloud_Graduate-FF9900?style=for-the-badge&labelColor=050f1a" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💼_7_Internships-2nd_Year_Only-00e8cc?style=for-the-badge&labelColor=050f1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/📜_20%2B_Certifications-Google·AWS·NPTEL-00BFA5?style=for-the-badge&labelColor=050f1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/🤖_17%2B_Projects-AI_&_Full_Stack-00BFA5?style=for-the-badge&labelColor=050f1a" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏆_Hackathon-Multiple_Winner-00e8cc?style=for-the-badge&labelColor=050f1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/🧠_AI%2FML_Research-CIT_COE-00BFA5?style=for-the-badge&labelColor=050f1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/🌟_Google_Ananta-Bengaluru_2026-4285F4?style=for-the-badge&labelColor=050f1a" />
 
 </div>
 
@@ -99,12 +119,6 @@ const deol = {
 <div align="center">
 
 ## 📊 GitHub Intelligence Dashboard
-
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=deolallwynsamueljb-tech&show_icons=true&count_private=true&theme=dark&bg_color=050f1a&border_color=00BFA5&icon_color=00BFA5&title_color=00e8cc&text_color=c9d1d9&hide_border=false&rank_icon=github" />
-&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deolallwynsamueljb-tech&layout=compact&langs_count=8&theme=dark&bg_color=050f1a&border_color=00BFA5&title_color=00e8cc&text_color=c9d1d9&hide_border=false" />
-
-<br/><br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=deolallwynsamueljb-tech&theme=dark&background=050f1a&border=00BFA5&ring=00BFA5&fire=00e8cc&currStreakLabel=00e8cc&sideLabels=c9d1d9&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
 
@@ -311,7 +325,7 @@ AI attendance with facial recognition via **DeepFace** integration.
 
 <br/><br/>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/deol-allwyn-samuel-j-b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
