@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://architectdeol.vercel.app" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=750&height=50&lines=🤖+Building+AI+That+Thinks+%26+Learns;⚡+VLSI+%7C+Chip+Design+%7C+Hardware+AI;🌐+React+%2B+Python+%2B+Cloud+%3D+Full+Stack;🏆+Google+Cloud+APL+Champion+2026;🎓+7+Internships+in+2nd+Year+of+Engineering;🚀+From+Chennai+→+Building+the+Future;🧠+Computer+Vision+%7C+Deep+Learning+%7C+NLP;💡+Turning+Raw+Data+into+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%A4%96+Building+AI+That+Thinks+%26+Learns;%E2%9A%A1+VLSI+%7C+Chip+Design+%7C+Hardware+AI;%F0%9F%8C%90+React+%2B+Python+%2B+Cloud+%3D+Full+Stack;%F0%9F%8F%86+Google+Cloud+APL+Champion+2026;%F0%9F%8E%93+7+Internships+in+2nd+Year+of+Engineering;%F0%9F%9A%80+From+Chennai+%E2%86%92+Building+the+Future;%F0%9F%A7%A0+Computer+Vision+%7C+Deep+Learning+%7C+NLP;%F0%9F%92%A1+Turning+Raw+Data+into+Intelligent+Systems" />
 </a>
 
 <br/><br/>
