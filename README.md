@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050f1a,30:003d33,60:00BFA5,100:00e8cc&height=260&section=header&text=Deol%20Allwyn%20Samuel&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=⚡%20AI%20Architect%20%7C%20VLSI%20Researcher%20%7C%20Full-Stack%20Developer%20⚡&descAlignY=62&descSize=20&animation=fadeIn&stroke=00BFA5&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050f1a,30:003d33,60:00BFA5,100:00e8cc&height=260&section=header&text=Deol%20Allwyn%20Samuel&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=%E2%9A%A1%20AI%20Architect%20%7C%20VLSI%20Researcher%20%7C%20Full-Stack%20Developer%20%E2%9A%A1&descAlignY=62&descSize=20" />
 
 </div>
 
@@ -349,4 +349,4 @@ AI attendance with facial recognition via **DeepFace** integration.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e8cc,50:00BFA5,100:050f1a&height=140&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e8cc,50:00BFA5,100:050f1a&height=140&section=footer" />
