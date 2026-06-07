@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://architectdeol.vercel.app" target="_blank">
+<a href="https://pawntoking.is-a.dev" target="_blank">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=750&height=50&lines=Building+AI+That+Thinks+%26+Learns;VLSI+%7C+Chip+Design+%7C+Hardware+AI;React+%2B+Python+%2B+Cloud+%3D+Full+Stack;Google+Cloud+APL+Grand+Finale+2026;7+Internships+in+2nd+Year+of+Engineering;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Intelligent+Systems" />
 </a>
 
@@ -16,7 +16,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/deolallwynsamueljb-tech?label=Followers&style=for-the-badge&color=00BFA5&labelColor=050f1a&logo=github&logoColor=white" />
 &nbsp;
-<a href="https://architectdeol.vercel.app">
+<a href="https://pawntoking.is-a.dev">
 <img src="https://img.shields.io/badge/Portfolio-Live%20Now-00BFA5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050f1a" />
 </a>
 &nbsp;
@@ -129,16 +129,26 @@ const deol = {
 
 ## GitHub Intelligence Dashboard
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deolallwynsamueljb-tech&show_icons=true&theme=dark&bg_color=050f1a&border_color=00BFA5&icon_color=00e8cc&title_color=00e8cc&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deolallwynsamueljb-tech&theme=dark&background=050f1a&border=00BFA5&ring=00BFA5&fire=00e8cc&currStreakLabel=00e8cc&sideLabels=c9d1d9&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deolallwynsamueljb-tech&show_icons=true&theme=dark&bg_color=050f1a&border_color=00BFA5&icon_color=00e8cc&title_color=00e8cc&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=deolallwynsamueljb-tech&theme=dark&background=050f1a&border=00BFA5&ring=00BFA5&fire=00e8cc&currStreakLabel=00e8cc&sideLabels=c9d1d9&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deolallwynsamueljb-tech&layout=compact&theme=dark&bg_color=050f1a&border_color=00BFA5&title_color=00e8cc&text_color=c9d1d9&hide_border=false&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deolallwynsamueljb-tech&layout=compact&theme=dark&bg_color=050f1a&border_color=00BFA5&title_color=00e8cc&text_color=c9d1d9&hide_border=false&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deolallwynsamueljb-tech&bg_color=050f1a&color=00e8cc&line=00BFA5&point=ffffff&area=true&area_color=00BFA5&hide_border=false&border_color=00BFA5&title_color=00e8cc" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deolallwynsamueljb-tech&theme=github_dark" />
+
+<br/><br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deolallwynsamueljb-tech&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deolallwynsamueljb-tech&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deolallwynsamueljb-tech&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
@@ -352,8 +362,8 @@ AI-powered intelligent route optimizer for Indian public transit.
 
 <div align="center">
 
-<a href="https://architectdeol.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-architectdeol.vercel.app-00BFA5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050f1a" />
+<a href="https://pawntoking.is-a.dev">
+<img src="https://img.shields.io/badge/Portfolio-pawntoking.is--a.dev-00BFA5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050f1a" />
 </a>
 
 <br/><br/>
