@@ -247,22 +247,10 @@ const deol = {
 ---
 
 ## Hall of Fame
-
-<div align="center">
-
-| Achievement | Year | Details |
+| Achievement Year | Details |
 |:---|:---:|:---|
-| **Google Cloud APL Chennai Champion** | 2026 | Grand Finale, Bengaluru — selected from 100+ builders |
-| **GDG Chennai Community Member** | 2026 | Representing student innovation to 5,900+ developers |
-| **AWS Academy Cloud Graduate** | 2026 | Amazon EC2, S3 & Cloud Security certified |
-| **AI/ML Research Intern** | 2024–26 | CIT Chennai Centre of Excellence for AI |
-| **District Level Chess Player** | ongoing | Strategic thinker on and off the board |
-| **Hackathon Winner** | 2025–26 | Multiple college & national level competitions |
-| **20+ Certifications** | 2024–26 | Google · AWS · NPTEL · Coursera · LinkedIn Learning |
+| **Google Cloud APL Chennai Champion** | 2026 | Grand Finale, Bengaluru — selected from 100+ builders across 3000 Developers|
 
-</div>
-
----
 
 ## Competitive Programming
 
