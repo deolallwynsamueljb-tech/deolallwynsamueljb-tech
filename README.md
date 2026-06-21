@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://pawntoking.is-a.dev" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=750&height=50&lines=Building+AI+That+Thinks+%26+Learns;VLSI+%7C+Chip+Design+%7C+Hardware+AI;React+%2B+Python+%2B+Cloud+%3D+Full+Stack;Google+Cloud+APL+Grand+Finale+2026;7+Internships+in+2nd+Year+of+Engineering;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=750&height=50&lines=Building+AI+That+Thinks+%26+Learns;VLSI+%7C+Chip+Design+%7C+Hardware+AI;React+%2B+Python+%2B+Cloud+%3D+Full+Stack;Google+Cloud+APL+Grand+Finalist+2026;7+Internships+in+3rd+Year+of+Engineering;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Intelligent+Systems" />
 </a>
 
 <br/><br/>
@@ -41,21 +41,15 @@ const deol = {
   name:      "Deol Allwyn Samuel",
   title:     "AI Architect & Full-Stack Dev",
   location:  "Chennai, India",
-  education: "B.E EE(VLSI) — 2nd Year @ CIT Chennai",
+  education: "B.E EE(VLSI) — 3rd Year @ CIT Chennai",
   status:    "Open to Opportunities",
-
-  currentlyBuilding: [
-    "AI Transit Solutions @ Dnyx",
-    "AI/ML Research @ CIT Centre of Excellence",
-    "Google Cloud Certified Projects",
-  ]
 
   achievements: {
     internships:    7,
     projects:       17,
     certifications: 20,
-    chess:          "District Level Player",
-    champion:       "Google Cloud APL Grand Finale 2026",
+    chess:          "District Level Player Top 10",
+    champion:       "Google Cloud APL Grand Finalist 2026",
   },
 
   motto: "Ship fast. Learn faster. Build better.",
@@ -71,7 +65,7 @@ const deol = {
 
 <img src="https://img.shields.io/badge/Chennai%2C_India-Location-00BFA5?style=flat-square&logo=googlemaps&logoColor=white&labelColor=050f1a" />
 <br/>
-<img src="https://img.shields.io/badge/2nd_Year_CSE-Student-00BFA5?style=flat-square&logo=googlescholar&logoColor=white&labelColor=050f1a" />
+<img src="https://img.shields.io/badge/3rd_Year_VLSI-Student-00BFA5?style=flat-square&logo=googlescholar&logoColor=white&labelColor=050f1a" />
 <br/>
 <img src="https://img.shields.io/badge/7_Internships-Completed-00e8cc?style=flat-square&logo=linkedin&logoColor=white&labelColor=050f1a" />
 <br/>
