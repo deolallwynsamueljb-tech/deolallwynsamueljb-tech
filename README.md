@@ -41,7 +41,7 @@ const deol = {
   name:      "Deol Allwyn Samuel",
   title:     "AI Architect & Full-Stack Dev",
   location:  "Chennai, India",
-  education: "B.E. CSE — 2nd Year @ CIT Chennai",
+  education: "B.E EE(VLSI) — 2nd Year @ CIT Chennai",
   status:    "Open to Opportunities",
 
   currentlyBuilding: [
