@@ -48,15 +48,7 @@ const deol = {
     "AI Transit Solutions @ Dnyx",
     "AI/ML Research @ CIT Centre of Excellence",
     "Google Cloud Certified Projects",
-  ],
-
-  techStack: {
-    ai_ml:    ["Python","TensorFlow","YOLO","NLP"],
-    frontend: ["React 19","TypeScript","Tailwind"],
-    backend:  ["Node.js","FastAPI","Streamlit"],
-    cloud:    ["AWS","Google Cloud","Vercel","Docker"],
-    hardware: ["Verilog","VHDL","Xilinx FPGA","Cadence"],
-  },
+  ]
 
   achievements: {
     internships:    7,
