@@ -205,67 +205,7 @@ const deol = {
 </div>
 
 ---
-
-## Flagship Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### Traffic Violation Detector
-Real-time YOLOv8 detection — signal jumping, helmet & speed violations.
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00B4D8?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### BharatCare AI Pro
-Nationwide health AI — **11 modules**, **37 states**, **3 languages**.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### GradeForge
-Grade predictor — **91% accuracy**, **R² = 0.94**. Streamlit deployed.
-
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### AttendanceIQ Pro
-AI attendance system with **DeepFace** facial recognition.
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-EE4C2C?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### Metro & Train Navigator
-AI-powered intelligent route optimizer for Indian public transit.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Graph AI](https://img.shields.io/badge/Graph_AI-00BFA5?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
+ 
 <td align="center" width="50%">
 
 ### Portfolio
