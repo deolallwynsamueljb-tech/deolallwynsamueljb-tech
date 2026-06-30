@@ -107,6 +107,8 @@ const deol = {
  
 
 
+</div>
+
 ---
 
 <div align="center">
@@ -190,18 +192,15 @@ const deol = {
 
 ---
  
-<td align="center" width="50%">
+<div align="center">
 
-### Portfolio
-5 themes, AI assistant, animated sidebar & smart section dots.
+## Portfolio
+
+5 themes • AI Assistant • Animated Sidebar • Smart Section Navigation
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-</tr>
-</table>
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -231,8 +230,8 @@ const deol = {
 ---
 
 ## Hall of Fame
-| Achievement Year | Details |
-|:---|:---:|:---|
+| Achievement | Year | Details |
+|:------------|:----:|:--------|
 | **Google Cloud APL Chennai Champion** | 2026 | Grand Finale, Bengaluru — selected from 100+ builders across 3000 Developers|
 
 
@@ -307,3 +306,4 @@ const deol = {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e8cc,50:00BFA5,100:050f1a&height=140&section=footer" />
+
