@@ -104,10 +104,8 @@ const deol = {
 <img src="https://img.shields.io/badge/AI%2FML_Research-CIT_COE-00BFA5?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=050f1a" />
 
 <br/><br/>
+ 
 
-<img src="https://github-profile-trophy.vercel.app/?username=deolallwynsamueljb-tech&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
 
 ---
 
