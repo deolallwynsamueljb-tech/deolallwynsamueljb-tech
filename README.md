@@ -204,30 +204,7 @@ const deol = {
 
 </div>
 
----
-
-## Experience Timeline
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                    DEOL'S INTERNSHIP JOURNEY                            ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║  2026  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●  ║
-║        ├─  AI Intern            @ Dnyx              May 2026 – Now   ║
-║        ├─  Community Member     @ GDG Chennai        May 2026 – Now   ║
-║        ├─  AI & Frontend Dev    @ Afynix Digital     Apr – May 2026   ║
-║        └─  Cloud Intern         @ EduSkills AWS      Mar – Apr 2026   ║
-║                                                                          ║
-║  2025  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●  ║
-║        ├─  AI / ML Intern       @ CIT Chennai COE    2024 – Present   ║
-║        ├─  Web Dev Intern       @ CodeClause         Dec'25–Jan'26    ║
-║        └─  Tech Intern          @ Thinkcove Tech     Apr–Jun 2025     ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
----
+ 
 
 ## Hall of Fame
 | Achievement | Year | Details |
