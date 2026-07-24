@@ -45,9 +45,9 @@ const deol = {
   status:    "Open to Opportunities",
 
   achievements: {
-    internships:    7,
-    projects:       17,
-    certifications: 20,
+    internships:    5,
+    projects:       7,
+    certifications: 10,
     chess:          "District Level Player Top 10",
     champion:       "Google Cloud APL Grand Finalist 2026",
   },
