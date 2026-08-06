@@ -59,12 +59,6 @@ const deol = {
 | **5 Internships by 3rd Year** | 2023–2026 | Real production systems, not just coursework — enterprise automation, cloud pipelines, and applied ML |
 | **10+ Certifications** | Ongoing | Google, AWS Academy, NPTEL — depth across cloud, AI, and hardware |
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deolallwynsamueljb-tech&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-
-</div>
-
 ---
 
 ## Featured Work
