@@ -137,26 +137,14 @@ const deol = {
 
 ---
 
-## Let's Build Something
+## Contribution Graph
 
 <div align="center">
 
-<a href="https://pawntoking.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-pawntoking.is--a.dev-00BFA5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050f1a" /></a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/deol-allwyn-samuel-j-b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:Deolallwynsamueljb@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/deolallwynsamueljb-tech"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-> *"I didn't wait to graduate to build things that matter —*
-> *I shipped 5 internships, 7+ projects, and a national final*
-> *before finishing my third year."*
->
-> — **Deol Allwyn Samuel**, Chennai, India
-
-**If this profile matches a role you're hiring for — let's talk.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deolallwynsamueljb-tech/deolallwynsamueljb-tech/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deolallwynsamueljb-tech/deolallwynsamueljb-tech/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/deolallwynsamueljb-tech/deolallwynsamueljb-tech/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
