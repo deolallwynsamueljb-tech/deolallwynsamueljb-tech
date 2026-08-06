@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/Open%20to%20Full--Time%20%26%20Internship%20Roles-00e8cc?style=for-the-badge&labelColor=050f1a" />
 <img src="https://img.shields.io/badge/Google%20Cloud%20APL%20Grand%20Finalist%202026-4285F4?style=for-the-badge&logo=google&labelColor=050f1a" />
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=deolallwynsamueljb-tech&label=Profile+Views&color=00BFA5&style=for-the-badge&labelColor=050f1a" />
+
 </div>
 
 ---
@@ -38,6 +42,10 @@ const deol = {
 ```
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+</div>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Chennai%2C_India-Location-00BFA5?style=flat-square&logo=googlemaps&logoColor=white&labelColor=050f1a" />
 <img src="https://img.shields.io/badge/3rd_Year_VLSI-CIT_Chennai-00BFA5?style=flat-square&logo=googlescholar&logoColor=white&labelColor=050f1a" />
@@ -54,6 +62,12 @@ const deol = {
 | **Google Cloud APL — Chennai Champion → National Grand Finalist** | 2026 | Selected from 100+ builders out of 3,000+ developers; built and shipped two live AI agents on Google Cloud Run under competition pressure |
 | **5 Internships by 3rd Year** | 2023–2026 | Real production systems, not just coursework — enterprise automation, cloud pipelines, and applied ML |
 | **10+ Certifications** | Ongoing | Google, AWS Academy, NPTEL — depth across cloud, AI, and hardware |
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deolallwynsamueljb-tech&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+
+</div>
 
 ---
 
@@ -76,6 +90,12 @@ const deol = {
 ---
 
 ## Skills & Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,react,ts,js,nodejs,fastapi,aws,gcp,vercel,docker,git,linux&theme=dark&perline=8" />
+
+</div>
 
 ### Artificial Intelligence & Machine Learning
 
