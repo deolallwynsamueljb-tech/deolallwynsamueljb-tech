@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=650&height=45&lines=Turning+raw+silicon+into+intelligent+systems;Google+Cloud+APL+Grand+Finalist+2026;5+Internships+in+3+Years+of+Engineering;From+Verilog+to+React+to+Production+ML" />
 </a>
 
-[Portfolio](https://pawntoking.is-a.dev) · [LinkedIn](https://linkedin.com/in/deol-allwyn-samuel-j-b) · [GitHub](https://github.com/deolallwynsamueljb-tech) · [Email](mailto:Deolallwynsamueljb@gmail.com)
+[Portfolio](https://pawntoking.is-a.dev) · [LinkedIn](https://linkedin.com/in/deol-allwyn-samuel-j-b) · [Email](mailto:Deolallwynsamueljb@gmail.com)
 
 <img src="https://img.shields.io/badge/Open%20to%20Full--Time%20%26%20Internship%20Roles-00e8cc?style=for-the-badge&labelColor=050f1a" />
 <img src="https://img.shields.io/badge/Google%20Cloud%20APL%20Grand%20Finalist%202026-4285F4?style=for-the-badge&logo=google&labelColor=050f1a" />
