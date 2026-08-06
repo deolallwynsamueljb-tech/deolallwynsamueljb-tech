@@ -1,3 +1,9 @@
+<!--
+  Hey, you're reading the raw markdown. Most recruiters never scroll this far —
+  so if you're seeing this, you're already more thorough than 90% of people
+  who visit this page. Email me "RAW" in the subject line and I'll know you found this. — Deol
+-->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050f1a,30:003d33,60:00BFA5,100:00e8cc&height=220&section=header&text=Deol%20Allwyn%20Samuel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Architect%20%7C%20VLSI%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" />
@@ -51,6 +57,28 @@ const deol = {
 
 ---
 
+## My Journey, as a Git Log
+
+```bash
+$ git log --oneline --graph --decorate deol/career
+
+* 4f8a2c1 (HEAD -> main, tag: google-cloud-apl-finalist) feat: national grand finalist, 3000+ devs
+* 9b1e7d0 feat: shipped 2 live AI agents on Cloud Run during an IPL match
+* c3d5a29 feat: 5th internship — production ML pipelines
+* 7e2f81b fix: stopped over-engineering, started shipping
+* a4b9c30 feat: 4th internship — full-stack + cloud infra
+* 5d0c14e feat: AgroCore-M4 — ARM Cortex-M4 firmware for farm sensors
+* 1a6f903 feat: 3rd internship — VLSI meets ML
+* 88e2b41 refactor: learned Verilog doesn't forgive sloppy RTL
+* 2c7a018 feat: 2nd internship — first production deploy
+* f01d5c6 feat: 1st internship — said yes before feeling ready
+* 0000001 (root-commit) init: B.E Electronics Engineering (VLSI), CIT Chennai
+```
+
+> `git blame` on this repo mostly points to caffeine and deadlines.
+
+---
+
 ## Proof, Not Promises
 
 | Achievement | Year | Why It Matters |
@@ -93,6 +121,21 @@ const deol = {
 **Familiar with — used in projects, still growing:**
 `FastAPI` · `Node.js` · `Docker` · `OpenCV` · `scikit-learn` · `Xilinx FPGA` · `Cadence`
 
+<details>
+<summary><strong>📊 Proficiency, self-rated and brutally honest</strong></summary>
+<br>
+
+```
+Python           ████████████████████░░  88%
+Verilog / VHDL    ███████████████████░░░  82%
+React / TS        █████████████████░░░░░  75%
+AWS / GCP         ████████████████░░░░░░  70%
+TensorFlow/PyTorch ██████████████░░░░░░░  62%
+Cadence / FPGA     ███████████░░░░░░░░░░  48%   ← actively closing this gap
+```
+
+</details>
+
 ---
 
 ## Competitive Programming
@@ -118,5 +161,25 @@ const deol = {
 </picture>
 
 </div>
+
+---
+
+<div align="center">
+
+<details>
+<summary>🔍 <strong>Decode this before you scroll past</strong></summary>
+<br>
+
+```
+.... .. .-. .   -- .   -.. . --- .-..
+```
+
+<sub>Morse code. If you actually decoded it instead of reading the next line — respect. It says <strong>"HIRE ME DEOL"</strong>.</sub>
+
+</details>
+
+</div>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e8cc,50:00BFA5,100:050f1a&height=120&section=footer" />
