@@ -66,9 +66,9 @@ const deol = {
 <br/>
 <img src="https://img.shields.io/badge/3rd_Year_VLSI-Student-00BFA5?style=flat-square&logo=googlescholar&logoColor=white&labelColor=050f1a" />
 <br/>
-<img src="https://img.shields.io/badge/7_Internships-Completed-00e8cc?style=flat-square&logo=linkedin&logoColor=white&labelColor=050f1a" />
+<img src="https://img.shields.io/badge/5_Internships-Completed-00e8cc?style=flat-square&logo=linkedin&logoColor=white&labelColor=050f1a" />
 <br/>
-<img src="https://img.shields.io/badge/17%2B_AI_Projects-Deployed-00BFA5?style=flat-square&logo=github&logoColor=white&labelColor=050f1a" />
+ 
 
 </td>
 </tr>
@@ -79,8 +79,6 @@ const deol = {
 <div align="center">
 
 ## Awards & Recognition
-
-<img src="https://img.shields.io/badge/Google_Cloud-APL_Grand_Finale_%7C_Bengaluru_2026-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=050f1a" />
 &nbsp;
 <img src="https://img.shields.io/badge/GDG_Chennai-Community_Member-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=050f1a" />
 &nbsp;
@@ -90,13 +88,13 @@ const deol = {
 
 <img src="https://img.shields.io/badge/5_Internships-3rd_Year_Record-00e8cc?style=for-the-badge&logo=handshake&logoColor=white&labelColor=050f1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/20%2B_Certifications-Google_%C2%B7_AWS_%C2%B7_NPTEL-00BFA5?style=for-the-badge&logo=coursera&logoColor=white&labelColor=050f1a" />
+<img src="https://img.shields.io/badge/10%2B_Certifications-Google_%C2%B7_AWS_%C2%B7_NPTEL-00BFA5?style=for-the-badge&logo=coursera&logoColor=white&labelColor=050f1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/17%2B_Projects-AI_%26_Full_Stack-00BFA5?style=for-the-badge&logo=github&logoColor=white&labelColor=050f1a" />
+<img src="https://img.shields.io/badge/7%2B_Projects-AI_%26_Full_Stack-00BFA5?style=for-the-badge&logo=github&logoColor=white&labelColor=050f1a" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Hackathon-Multiple_Winner-00e8cc?style=for-the-badge&logo=devpost&logoColor=white&labelColor=050f1a" />
+<img src="https://img.shields.io/badge/Hackathon-Finalist-00e8cc?style=for-the-badge&logo=devpost&logoColor=white&labelColor=050f1a" />
 &nbsp;
 &nbsp;
 
