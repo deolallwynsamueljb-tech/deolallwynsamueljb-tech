@@ -117,16 +117,7 @@ const deol = {
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deolallwynsamueljb-tech/deolallwynsamueljb-tech/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deolallwynsamueljb-tech/deolallwynsamueljb-tech/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/deolallwynsamueljb-tech/deolallwynsamueljb-tech/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
+ 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e8cc,50:00BFA5,100:050f1a&height=120&section=footer" />
