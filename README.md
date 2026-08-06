@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://pawntoking.is-a.dev" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=750&height=50&lines=Building+AI+That+Thinks+%26+Learns;VLSI+%7C+Chip+Design+%7C+Hardware+AI;React+%2B+Python+%2B+Cloud+%3D+Full+Stack;Google+Cloud+APL+Grand+Finalist+2026;7+Internships+in+3rd+Year+of+Engineering;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=750&height=50&lines=Building+AI+That+Thinks+%26+Learns;VLSI+%7C+Chip+Design+%7C+Hardware+AI;React+%2B+Python+%2B+Cloud+%3D+Full+Stack;Google+Cloud+APL+Grand+Finalist+2026;5+Internships+in+3rd+Year+of+Engineering;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Intelligent+Systems" />
 </a>
 
 <br/><br/>
@@ -48,7 +48,6 @@ const deol = {
     internships:    5,
     projects:       7,
     certifications: 10,
-    chess:          "District Level Player Top 10",
     champion:       "Google Cloud APL Grand Finalist 2026",
   },
 
@@ -89,7 +88,7 @@ const deol = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/7_Internships-2nd_Year_Record-00e8cc?style=for-the-badge&logo=handshake&logoColor=white&labelColor=050f1a" />
+<img src="https://img.shields.io/badge/5_Internships-3rd_Year_Record-00e8cc?style=for-the-badge&logo=handshake&logoColor=white&labelColor=050f1a" />
 &nbsp;
 <img src="https://img.shields.io/badge/20%2B_Certifications-Google_%C2%B7_AWS_%C2%B7_NPTEL-00BFA5?style=for-the-badge&logo=coursera&logoColor=white&labelColor=050f1a" />
 &nbsp;
@@ -99,9 +98,7 @@ const deol = {
 
 <img src="https://img.shields.io/badge/Hackathon-Multiple_Winner-00e8cc?style=for-the-badge&logo=devpost&logoColor=white&labelColor=050f1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/Chess-District_Level_Player-00BFA5?style=for-the-badge&logo=lichess&logoColor=white&labelColor=050f1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/AI%2FML_Research-CIT_COE-00BFA5?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=050f1a" />
 
 <br/><br/>
  
