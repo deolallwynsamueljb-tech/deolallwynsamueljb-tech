@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050f1a,30:003d33,60:00BFA5,100:00e8cc&height=220&section=header&text=Deol%20Allwyn%20Samuel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Architect%20%7C%20VLSI%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" />
 
@@ -117,7 +117,16 @@ const deol = {
 
 ---
 
- 
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deolallwynsamueljb-tech/deolallwynsamueljb-tech/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deolallwynsamueljb-tech/deolallwynsamueljb-tech/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/deolallwynsamueljb-tech/deolallwynsamueljb-tech/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e8cc,50:00BFA5,100:050f1a&height=120&section=footer" />
