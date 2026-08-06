@@ -1,10 +1,10 @@
 <div align="center">
 
-# Deol Allwyn Samuel
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050f1a,30:003d33,60:00BFA5,100:00e8cc&height=220&section=header&text=Deol%20Allwyn%20Samuel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Architect%20%7C%20VLSI%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" />
 
-**AI Architect · VLSI Engineer · Full-Stack Builder**
-
-*Turning raw silicon and raw data into intelligent systems — from chip to cloud.*
+<a href="https://pawntoking.is-a.dev" target="_blank">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=650&height=45&lines=Turning+raw+silicon+into+intelligent+systems;Google+Cloud+APL+Grand+Finalist+2026;5+Internships+in+3+Years+of+Engineering;From+Verilog+to+React+to+Production+ML" />
+</a>
 
 [Portfolio](https://pawntoking.is-a.dev) · [LinkedIn](https://linkedin.com/in/deol-allwyn-samuel-j-b) · [GitHub](https://github.com/deolallwynsamueljb-tech) · [Email](mailto:Deolallwynsamueljb@gmail.com)
 
@@ -148,3 +148,5 @@ const deol = {
 </picture>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e8cc,50:00BFA5,100:050f1a&height=120&section=footer" />
