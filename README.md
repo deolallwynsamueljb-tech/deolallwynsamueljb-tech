@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050f1a,30:003d33,60:00BFA5,100:00e8cc&height=220&section=header&text=Deol%20Allwyn%20Samuel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Architect%20%7C%20VLSI%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" />
 
@@ -40,10 +40,6 @@ const deol = {
   looking_for: "AI/ML Engineer · VLSI Design Engineer · Full-Stack Roles",
 };
 ```
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
-</div>
 
 <div align="center">
 
