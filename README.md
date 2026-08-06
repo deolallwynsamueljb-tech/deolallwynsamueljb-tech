@@ -87,26 +87,6 @@ $ git log --oneline --graph --decorate deol/career
 | **5 Internships by 3rd Year** | 2023–2026 | Real production systems, not just coursework — enterprise automation, cloud pipelines, and applied ML |
 | **10+ Certifications** | Ongoing | Google, AWS Academy, NPTEL — depth across cloud, AI, and hardware |
 
----
-
-## Featured Work
-
-**AI & Applied ML**
-- **PropIQ Chennai** — AI-driven real estate intelligence platform
-- **GradeForge** — automated academic evaluation system
-- **Hardware AI** — ML models deployed on embedded/edge hardware
-- **Chess AI** — game-tree search engine with a learned evaluation function
-
-**VLSI & Embedded**
-- **AgroCore-M4** — ARM Cortex-M4 firmware for real-time farm sensor networks
-- Chip-design coursework spanning Verilog/VHDL RTL design through fabrication (lithography, diffusion, CMP)
-
-**Full-Stack & Cloud**
-- **Smart Mobility** — full-stack traffic/transit optimization system
-- Production deployments on AWS and Google Cloud Run with CI/CD pipelines
-
----
-
 ## Skills & Arsenal
 
 <div align="center">
